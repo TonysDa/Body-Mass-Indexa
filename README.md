@@ -20,7 +20,7 @@ if (smqtaneprint < 20)
 {
 Console.WriteLine("Под нормалното тегло.");
 }
-else if (smqtaneprint >= 20 && smqtaneprint <= 25)
+else if (smqtaneprint <= 25)
 {
 Console.WriteLine("Теглото ви е стабилно");
 }
